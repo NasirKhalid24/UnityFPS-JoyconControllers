@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 4e404da422c55ed4b920cee12f1347a9
+timeCreated: 1456568931
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: rockbig1
+    100002: rockblock1
+    100004: rockblockL
+    100006: rockblockXL1
+    100008: rockblockXL1_1
+    100010: rockflat1
+    100012: //RootNode
+    100014: rockSmall1
+    100016: rockSmall2
+    100018: rockSmall3
+    100020: rockSmallcluster1
+    100022: rockSmallcluster2
+    100024: rocktall1
+    400000: rockbig1
+    400002: rockblock1
+    400004: rockblockL
+    400006: rockblockXL1
+    400008: rockblockXL1_1
+    400010: rockflat1
+    400012: //RootNode
+    400014: rockSmall1
+    400016: rockSmall2
+    400018: rockSmall3
+    400020: rockSmallcluster1
+    400022: rockSmallcluster2
+    400024: rocktall1
+    2300000: rockbig1
+    2300002: rockblock1
+    2300004: rockblockL
+    2300006: rockblockXL1
+    2300008: rockblockXL1_1
+    2300010: rockflat1
+    2300012: rockSmall1
+    2300014: rockSmall2
+    2300016: rockSmall3
+    2300018: rockSmallcluster1
+    2300020: rockSmallcluster2
+    2300022: rocktall1
+    3300000: rockbig1
+    3300002: rockblock1
+    3300004: rockblockL
+    3300006: rockblockXL1
+    3300008: rockblockXL1_1
+    3300010: rockflat1
+    3300012: rockSmall1
+    3300014: rockSmall2
+    3300016: rockSmall3
+    3300018: rockSmallcluster1
+    3300020: rockSmallcluster2
+    3300022: rocktall1
+    4300000: rockSmallcluster2
+    4300002: rockSmallcluster1
+    4300004: rockblockL
+    4300006: rockblockXL1
+    4300008: rockblockXL1_1
+    4300010: rockblock1
+    4300012: rockflat1
+    4300014: rocktall1
+    4300016: rockbig1
+    4300018: rockSmall2
+    4300020: rockSmall3
+    4300022: rockSmall1
+    6400000: rockbig1
+    6400002: rockblock1
+    6400004: rockblockL
+    6400006: rockblockXL1
+    6400008: rockblockXL1_1
+    6400010: rockflat1
+    6400012: rockSmall1
+    6400014: rockSmall2
+    6400016: rockSmall3
+    6400018: rockSmallcluster1
+    6400020: rockSmallcluster2
+    6400022: rocktall1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

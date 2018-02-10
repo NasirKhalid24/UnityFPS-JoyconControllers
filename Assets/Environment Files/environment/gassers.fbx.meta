@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: fd0966b1746afa347a99425e91f42592
+timeCreated: 1454494624
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: barrel1
+    100002: barrel2
+    100004: extinger
+    100006: gascan
+    100008: //RootNode
+    100010: jerrycan
+    400000: barrel1
+    400002: barrel2
+    400004: extinger
+    400006: gascan
+    400008: //RootNode
+    400010: jerrycan
+    2300000: barrel1
+    2300002: barrel2
+    2300004: extinger
+    2300006: gascan
+    2300008: jerrycan
+    3300000: barrel1
+    3300002: barrel2
+    3300004: extinger
+    3300006: gascan
+    3300008: jerrycan
+    4300000: gascan
+    4300002: jerrycan
+    4300004: barrel2
+    4300006: barrel1
+    4300008: extinger
+    6400000: barrel1
+    6400002: barrel2
+    6400004: extinger
+    6400006: gascan
+    6400008: jerrycan
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .649999976
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
